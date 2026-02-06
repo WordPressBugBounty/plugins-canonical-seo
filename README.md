@@ -1,0 +1,1 @@
+# plugins-canonical-seo
